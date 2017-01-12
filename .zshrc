@@ -99,3 +99,4 @@ alias less='less -x 3'
 alias s=inboundssh
 alias pssh=parallel-ssh
 alias pscp=parallel-scp
+alias mrstatus="mr status --short --untracked-files='no'"

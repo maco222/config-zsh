@@ -51,7 +51,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git github Composer symfony symfony2 docker docker-compose python debian command-not-found systemd)
+plugins=(git github Composer symfony symfony2 docker docker-compose python debian command-not-found systemd extract sublime)
 
 source $ZSH/oh-my-zsh.sh
 

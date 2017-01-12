@@ -57,6 +57,9 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
+bindkey "^[Od" backward-word
+bindkey "^[Oc" forward-word
+
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
